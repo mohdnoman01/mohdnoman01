@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohdnoman01
-- 👀 I’m interested in android development as backend programmer
+- 👀 I’m interested in android development and AI/ML
 - 🌱 I’m currently learning Dart , Kotlin and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mrnomii2580@gmail.com
