@@ -18,6 +18,7 @@ I build scalable Android apps, fix complex bugs, and optimize performance for re
 ## 🚀 Featured Projects
 
 * 📱 QuickFix – Service Booking App (Jetpack Compose)
+* 📱 IlmeZubaan - Native language learnning App (Jetpack Compose)
 * 🏦 Simple Banking System
 * 🎮 Random Number Guess Game
 
