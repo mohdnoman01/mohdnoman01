@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Android+Developer;Kotlin+Developer;Jetpack+Compose+Enthusiast;Building+Projects+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=3DDC84&center=true&vCenter=true&width=900&lines=Android+Developer;Kotlin+%7C+Jetpack+Compose;MVVM+%7C+Clean+Architecture;Firebase+%7C+Room+Database;Building+Android+Apps+One+Commit+At+A+Time" />
 </p>
 
 <h1 align="center">
