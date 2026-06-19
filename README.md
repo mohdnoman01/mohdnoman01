@@ -46,7 +46,7 @@ Currently focused on Android Development, DSA and Open Source.
 <h3>⚡ Technologies & Tools</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,postgres,git,github,docker,python,vscode,room,python," />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,postgres,git,github,docker,python,vscode,sqlite" />
 </p>
 
 ## 📊 GitHub Stats
