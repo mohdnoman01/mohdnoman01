@@ -1,38 +1,86 @@
-# Hi, I'm Mohd Noman 👋
+<h1 align="center">Hi 👋, I'm Mohd Noman</h1>
 
-🚀 Android Developer | Kotlin | Jetpack Compose | Firebase
+<h3 align="center">
+Android Developer | Kotlin | Jetpack Compose
+</h3>
 
-I build scalable Android apps, fix complex bugs, and optimize performance for real-world applications.
+<p align="center">
+Building Android applications with modern development practices.
+</p>
 
----
+<p align="center">
+Currently focused on Android Development, DSA and Open Source.
+</p>
 
-## 🔧 Tech Stack
+## 🚀 About Me
 
-* Kotlin, Java, Python
-* Jetpack Compose, Android SDK
-* Firebase, REST APIs
-* MVVM, Clean Architecture
+- 🎓 BCA Graduate
+- 📱 Android Developer
+- 💻 Kotlin & Jetpack Compose Enthusiast
+- 🔥 Learning Clean Architecture & System Design
+- 🌱 Exploring AI, Cloud and Backend Development
+- 🎯 Goal: Become a Production Ready Android Engineer
 
----
 
-## 🚀 Featured Projects
+## 🎯 Current Goals
 
-* 📱 QuickFix – Service Booking App (Jetpack Compose)
-* 📱 IlmeZubaan - Native language learning App (Jetpack Compose)
-* 🏦 Simple Banking System
-* 🎮 Random Number Guess Game
+- Daily GitHub Contributions
+- Build 50+ Projects
+- Solve LeetCode Problems Daily
+- Contribute to Open Source
+- Improve Communication Skills
+- Land an Android Developer Role
 
----
+## 🛠 Tech Stack
 
-## 💡 What I Do
+### Languages
+Kotlin • Java • Python
 
-* Fix Android bugs ⚡
-* Build scalable apps 📱
-* Optimize performance 🚀
+### Android
+Jetpack Compose
+MVVM
+Navigation Component
+Material 3
+Room Database
 
----
+### Backend
+Firebase
+REST APIs
 
-## 📫 Connect With Me
+### Tools
+Git
+GitHub
+Android Studio
+Postman
+Docker
 
-* Email: [mrnomii2580@gmail.com](mailto:mrnomii2580@gmail.com)
-* LinkedIn: https://www.linkedin.com/in/mohd-noman-b3109922a/
+### Databases
+Room
+Firebase Firestore
+PostgreSQL
+
+### 📌 Featured Projects
+
+### QuickFix
+On-demand handyman booking platform built with Kotlin and Firebase.
+
+### Ilm-e-Zubaan
+Language learning application supporting regional languages.
+
+### Portfolio Website
+Personal portfolio showcasing projects and experience.
+
+### DSA Kotlin
+Collection of DSA solutions and learning notes.
+
+## 🤝 Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/mohd-noman-b3109922a/
+
+Portfolio:
+(Coming Soon)
+
+Email:
+mrnomii2580@gmail.comD
+
