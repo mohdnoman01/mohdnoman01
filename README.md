@@ -1,18 +1,21 @@
 <p align="center">
-📍 India • Open To Work • Android Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Android+Developer;Kotlin+Developer;Jetpack+Compose+Enthusiast;Building+Projects+Every+Day" />
 </p>
 
-<p align="center">
-Building Android products one commit at a time.
-</p>
-<h1 align="center">Hi 👋, I'm Mohd Noman</h1>
+<h1 align="center">
+Mohd Noman
+</h1>
 
 <h3 align="center">
-Android Developer | Kotlin | Jetpack Compose
+Android Developer • Kotlin • Jetpack Compose
 </h3>
 
 <p align="center">
-Building Android applications with modern development practices.
+📍 India • Open To Work
+</p>
+
+<p align="center">
+Building scalable Android applications using modern architecture.
 </p>
 
 <p align="center">
