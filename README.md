@@ -1,3 +1,10 @@
+<p align="center">
+📍 India • Open To Work • Android Developer
+</p>
+
+<p align="center">
+Building Android products one commit at a time.
+</p>
 <h1 align="center">Hi 👋, I'm Mohd Noman</h1>
 
 <h3 align="center">
@@ -33,31 +40,19 @@ Currently focused on Android Development, DSA and Open Source.
 
 ## 🛠 Tech Stack
 
-### Languages
-Kotlin • Java • Python
+<h3>⚡ Technologies & Tools</h3>
 
-### Android
-Jetpack Compose
-MVVM
-Navigation Component
-Material 3
-Room Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,postgres,git,github,docker,python,vscode,room,python," />
+</p>
 
-### Backend
-Firebase
-REST APIs
+## 📊 GitHub Stats
 
-### Tools
-Git
-GitHub
-Android Studio
-Postman
-Docker
+![](https://github-readme-stats.vercel.app/api?username=mohdnoman01&show_icons=true&theme=tokyonight)
 
-### Databases
-Room
-Firebase Firestore
-PostgreSQL
+![](https://streak-stats.demolab.com?user=mohdnoman01&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdnoman01&layout=compact&theme=tokyonight)
 
 ### 📌 Featured Projects
 
@@ -72,6 +67,7 @@ Personal portfolio showcasing projects and experience.
 
 ### DSA Kotlin
 Collection of DSA solutions and learning notes.
+
 
 ## 🤝 Connect With Me
 
