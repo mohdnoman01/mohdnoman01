@@ -78,7 +78,7 @@ LinkedIn:
 https://www.linkedin.com/in/mohd-noman-b3109922a/
 
 Portfolio:
-(Coming Soon)
+https://portfolio-eta-six-izirjg4naz.vercel.app/
 
 Email:
 mrnomii2580@gmail.comD
