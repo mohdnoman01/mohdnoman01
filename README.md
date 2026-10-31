@@ -81,5 +81,5 @@ Portfolio:
 https://portfolio-eta-six-izirjg4naz.vercel.app/
 
 Email:
-mrnomii2580@gmail.comD
+mohdnoman.dev@gmail.com
 
